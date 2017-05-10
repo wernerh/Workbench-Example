@@ -1,0 +1,6 @@
+Workbench Example 
+========================
+
+v1.0.0.0     WH    10/05/2017
+-----------------------------
+- Initial release of the "Workbench Example" application 

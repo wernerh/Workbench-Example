@@ -1,0 +1,57 @@
+﻿<controls:MetroWindow x:Class="Workbench_Example.View.Dialogs.AboutView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="ABOUT"
+        ResizeMode="NoResize"
+        Height="Auto" Width="Auto"
+        SizeToContent="WidthAndHeight"
+        GlowBrush="{DynamicResource AccentColorBrush}"
+        ShowIconOnTitleBar="True"
+        SaveWindowPosition="True"
+        WindowTransitionsEnabled="False"
+        NonActiveWindowTitleBrush="LightGray">
+
+    <!--Window Input Bindings-->
+    <Window.InputBindings>
+        <KeyBinding Command="{Binding CloseCommand}" Gesture="Enter"/>
+        <KeyBinding Command="{Binding CloseCommand}" Gesture="ESC"/>
+    </Window.InputBindings>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--Header-->
+        <!--<Image x:Name="Img_Smart" Source="" Grid.Row="0" Margin="10" Width="150"/>-->
+        <Grid Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <!--Application Name-->
+                <Label x:Name="lbl_AplicationNameLabel" Grid.Row="0" Grid.Column="0" Margin="3" Content="Aplication Name:"/>
+                <Label x:Name="lbl_AplicatationName" Grid.Row="0" Grid.Column="1" Margin="3" Content="Workbench Example"/>
+                <!--Version-->
+                <Label x:Name="lbl_AplicationVersionLabel" Grid.Row="0" Grid.Column="2" Margin="3" Content="Version:"/>
+                <Label x:Name="lbl_AplicationVersion" Grid.Row="0" Grid.Column="3" Margin="3" Content="{Binding Version}"/>
+            </Grid>
+        </Grid>
+
+        <!--Description-->
+        <TextBlock x:Name="tbk_AplicationDescription" Grid.Row="2" TextWrapping="Wrap" Margin="8">
+            Developed with visual studio 2013 by <Hyperlink NavigateUri="https://www.linkedin.com/in/whurter/" RequestNavigate="Hyperlink_RequestNavigate" >Werner Hurter.</Hyperlink>
+        </TextBlock>
+
+        <!--OK Button-->
+        <Button x:Name="btn_AboutOk" Grid.Row="3" Content="_OK" Margin="10" MinWidth="50" Command="{Binding CloseCommand}"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+    </controls:MetroWindow>
+
