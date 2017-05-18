@@ -1,4 +1,6 @@
-﻿using Workbench_Example.Model;
+﻿using System.IO;
+using System.Text;
+using Workbench_Example.Model;
 using Workbench_Example.Resources.Services.Interfaces;
 
 namespace Workbench_Example.ViewModel
@@ -23,6 +25,25 @@ namespace Workbench_Example.ViewModel
 
         #endregion
 
+        #region Properties
+
+        private string _ReadMe;
+        // Display ReadMe.txt to user
+        public string ReadMe
+        {
+            get { return _ReadMe; }
+            set
+            {
+                if (_ReadMe != value)
+                {
+                    _ReadMe = value;
+                    OnPropertyChanged("ReadMe");
+                }
+            }
+        } 
+
+        #endregion
+
         #region Constructor
 
         /// <summary>
@@ -32,6 +53,7 @@ namespace Workbench_Example.ViewModel
             : base("Start Page")
         {
             ContentID = ToolContentID;
+            ReadMe = File.ReadAllText("ReadMe.txt", Encoding.ASCII);
         }
 
         #endregion

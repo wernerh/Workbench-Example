@@ -188,6 +188,9 @@
     <Content Include="Resources\Libraries\Xceed.Wpf.AvalonDock.Themes.Expression.dll" />
     <Content Include="Resources\Libraries\Xceed.Wpf.AvalonDock.Themes.Metro.dll" />
     <Content Include="Resources\Libraries\Xceed.Wpf.AvalonDock.Themes.VS2010.dll" />
+    <Resource Include="Resources\ReadMe.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

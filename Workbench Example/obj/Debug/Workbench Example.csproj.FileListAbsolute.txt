@@ -42,3 +42,46 @@ R:\Admin\Future Plans\Code\Workbench Example\Workbench Example\obj\Debug\Workben
 R:\Admin\Future Plans\Code\Workbench Example\Workbench Example\obj\Debug\Workbench Example.exe
 R:\Admin\Future Plans\Code\Workbench Example\Workbench Example\obj\Debug\Workbench Example.pdb
 R:\Admin\Future Plans\Code\Workbench Example\Workbench Example\obj\Debug\Workbench Example.csprojResolveAssemblyReference.cache
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\Workbench Example.exe.config
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Workbench Example.exe
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Workbench Example.pdb
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\Workbench Example.exe
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\Workbench Example.pdb
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\MahApps.Metro.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\Xceed.Wpf.AvalonDock.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Expression.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\System.Windows.Interactivity.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\System.Windows.Interactivity.xml
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\de\System.Windows.Interactivity.resources.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\en\System.Windows.Interactivity.resources.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\es\System.Windows.Interactivity.resources.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\it\System.Windows.Interactivity.resources.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Resources\MessageBoxes\CustomExceptionMessageBox\ExceptionMessageBox.baml
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Resources\MessageBoxes\CustomMessageBox\MessageBoxView.baml
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\View\Dialogs\AboutView.baml
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\View\Dialogs\OptionsView.baml
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\View\StartPageView.baml
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\App.baml
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Resources\MessageBoxes\CustomExceptionMessageBox\ExceptionMessageBox.g.cs
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Resources\MessageBoxes\CustomMessageBox\MessageBoxView.g.cs
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\View\Dialogs\AboutView.g.cs
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\View\Dialogs\OptionsView.g.cs
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\View\MainWindow.g.cs
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\View\StartPageView.g.cs
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\App.g.cs
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Workbench Example_Content.g.cs
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\GeneratedInternalTypeHelper.g.cs
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Workbench Example_MarkupCompile.cache
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Workbench Example_MarkupCompile.lref
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\View\MainWindow.baml
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Workbench Example.g.resources
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Workbench_Example.Properties.Resources.resources
+R:\Admin\Future Plans\Code\Workbench-Example\Workbench Example\obj\Debug\Workbench Example.csproj.GenerateResource.Cache

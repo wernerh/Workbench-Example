@@ -4,7 +4,9 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <TextBlock Grid.Row="0" FontSize="20" Margin="5" Text="Welcome to the workbench example"/>
+        <TextBox Grid.Row="1" FontSize="12" Margin="5" Text="{Binding ReadMe}" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible"/>
     </Grid>
 </UserControl>
